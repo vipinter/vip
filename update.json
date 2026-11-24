@@ -1,0 +1,7 @@
+{
+  "versionCode": 6,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/vipinter/vip/releases/download/v1.6/app-nueva.apk",
+  "obligatoria": false,
+  "notas": "Mejoras de estabilidad y conexión"
+}
